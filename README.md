@@ -51,4 +51,4 @@ ContactFormProject/
 **Topic:** Form Handling and JavaScript Validation
 
 ## 👨‍💻 Author
-Ash – Contact Form Developer Intern
+Ayush Kumar 
